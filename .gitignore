@@ -1,0 +1,23 @@
+# Fichiers Kubernetes à ignorer
+deployment.yaml
+first_service.yaml
+service.yaml
+readme.md
+
+# Autres fichiers et dossiers courants à ignorer
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+*.swp
+*.swo
